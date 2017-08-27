@@ -1,0 +1,38 @@
+{
+  "stonebricksslabbottom" : {
+    "albedo" : "vanilla.stoneBricks",
+    "normal" : "neutral",
+    "emissive" : "neutral",
+    "height" : "neutral"
+  },
+  "stonebricksslabtop" : {
+    "albedo" : "vanilla.stoneBricks",
+    "normal" : "neutral",
+    "emissive" : "neutral",
+    "height" : "neutral"
+  },
+  "stonebricksslableft" : {
+    "albedo" : "vanilla.stoneBricks",
+    "normal" : "neutral",
+    "emissive" : "neutral",
+    "height" : "neutral"
+  },
+  "stonebricksslabright" : {
+    "albedo" : "vanilla.stoneBricks",
+    "normal" : "neutral",
+    "emissive" : "neutral",
+    "height" : "neutral"
+  },
+  "stonebricksslabfront" : {
+    "albedo" : "vanilla.stoneBricks",
+    "normal" : "neutral",
+    "emissive" : "neutral",
+    "height" : "neutral"
+  },
+  "stonebricksslabback" : {
+    "albedo" : "vanilla.stoneBricks",
+    "normal" : "neutral",
+    "emissive" : "neutral",
+    "height" : "neutral"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "stonebricksslab" : {
+    "fullblockType" : "vanilla.stonebricks",
+    "icon" : "stonebricksslab.png",
+    "mesh" : "emptyframe.obj",
+    "npcLimit" : 0
+  },
+  "stonebricksslabbottom" : {
+    "parentType" : "stonebricksslab",
+    "onPlaceAudio" : "stonePlace",
+    "onRemoveAudio" : "stoneDelete",
+    "sideall" : "SELF",
+    "mesh" : "slabbottom.obj"
+  },
+  "stonebricksslabtop" : {
+    "parentType" : "stonebricksslab",
+    "onPlaceAudio" : "stonePlace",
+    "onRemoveAudio" : "stoneDelete",
+    "sideall" : "SELF",
+    "mesh" : "slabtop.obj"
+  },
+  "stonebricksslableft" : {
+    "parentType" : "stonebricksslab",
+    "onPlaceAudio" : "stonePlace",
+    "onRemoveAudio" : "stoneDelete",
+    "sideall" : "SELF",
+    "mesh" : "slableft.obj"
+  },
+  "stonebricksslabright" : {
+    "parentType" : "stonebricksslab",
+    "onPlaceAudio" : "stonePlace",
+    "onRemoveAudio" : "stoneDelete",
+    "sideall" : "SELF",
+    "mesh" : "slabright.obj"
+  },
+  "stonebricksslabfront" : {
+    "parentType" : "stonebricksslab",
+    "onPlaceAudio" : "stonePlace",
+    "onRemoveAudio" : "stoneDelete",
+    "sideall" : "SELF",
+    "mesh" : "slabfront.obj"
+  },
+  "stonebricksslabback" : {
+    "parentType" : "stonebricksslab",
+    "onPlaceAudio" : "stonePlace",
+    "onRemoveAudio" : "stoneDelete",
+    "sideall" : "SELF",
+    "mesh" : "slabback.obj"
+  }
+}

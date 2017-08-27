@@ -1,0 +1,14 @@
+[
+  {
+    "results" : [
+      {
+        "type" : "stonebricksslab", "amount" : 4
+      }
+    ],
+    "requires" : [
+      {
+        "type" : "vanilla.stonebricks", "amount" : 2
+      }
+    ]
+  }
+]
